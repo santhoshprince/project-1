@@ -1,0 +1,395 @@
+
+.logo-img img   {
+   
+    width: 40%;
+}
+.nav-bar{
+    float: right;
+}
+.nav-bar ul{
+    display: inline-flex;
+    position: relative;
+
+}
+.nav-bar ul li{
+    text-decoration: none;
+    margin: 2px;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    margin: 2px;
+}
+.logo-nav{
+    background-color: black;
+
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover{
+     color: yellow;
+}
+span:hover{
+    color: yellow;
+}
+span{
+    color:orangered;
+}
+.text{
+    top: 28%;
+    background-color: #c79999;
+    opacity: 0.9;
+    width: 49%;
+    height: 46%;
+   margin-left: 13%;
+}
+.text h1{
+    font-size: 66px;
+}
+.text p{
+    font-size:37px;
+    
+    }
+    .one-but{
+        width: 23%;
+    padding: 4px;
+    border-radius: 23px;
+    background-color: #108eea;
+    color: white;
+    border-style: 2px;
+    border: 0px;
+    cursor: pointer;
+    font-size: 25px;
+
+    }
+.btn-city{
+    text-align: center;
+    margin-top: 23px;
+}
+.btn-color {
+    background-color: #0e8deaa8;
+    color: white;
+    width: 13%;
+    padding: 5px;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 22px;
+}
+.cont{
+    margin-top: 50px;
+    text-align: center;
+}
+.cont h3{
+    font-size: 30px;
+}
+.cont p{
+    margin-top: 21px;
+    font-size: 16px;
+}
+
+.logo{
+  
+    margin-top: 10%;
+
+}
+.logo ul{
+    display: inline-flex;
+    position: relative;
+    list-style: none;
+}
+.logo ul li {
+    margin: 9px;
+    list-style: none;
+
+}
+
+.list-item ul {
+    display: block;
+    position: relative;
+    list-style: none;
+}
+.list-detalis{
+    text-align: start;
+    border-radius: 6px;
+    border: 0px;
+    padding-left: 86px;
+    margin: 10px;
+
+}
+.total-list{
+    background-color: #a8daea;
+}
+.logo-color:hover{
+    background-color :#1783ff;
+
+}
+.logo-colora{
+    background-color:#1783ff;
+}
+.list-item img{
+    background-color: #1783ff;
+}
+.list-detali{
+    text-align: start;
+    border-radius: 6px;
+    border: 0px;
+    padding-left: 90px;
+    margin: 10px;
+}
+.book-but{
+    position: absolute;
+    margin-left: 120px;
+    bottom: -16px;
+    /* top: -24px; */
+    /* padding: 1%; */
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #108eea;
+}
+.book-table{
+    margin-top: 50px;
+text-align: center;
+
+}
+.book-table h3{
+    font-size: 40px;
+}
+.col1{
+ background-color:    #005797;
+    font-size: 24px;
+    color: white;
+    
+}
+.row1{
+    background-color: #3939d9;
+    color: white;
+}
+.table-cont{
+    border-style: hidden;
+}
+.table img{
+    width: 41px;
+    
+}
+.part-one img{
+    border-style: hidden;
+    border-radius: 20px;
+    max-width: 104px;
+    margin-left: 49px;
+    margin-top: 10px;
+    border-color: #cac0c0;
+    border-style: 3px solid;
+    border-style: solid;
+    border-style: 1 soild red;
+    border-radius: 18px;
+    border-width: 5px;
+}
+.part-one h6{
+    width:335px;  overflow:hidden; padding-left:5px;
+}
+.choose{
+    text-align: center;
+
+    margin-top: 116px;
+}
+.parts{
+    margin-top: 59px;
+}
+.parts-new{
+    margin-top: 37px;
+}
+.parts-new h6{
+    margin-top: 10px;
+}
+.parts-two h6{
+    margin-left: 33px;
+    margin-top: 9px;
+
+}
+.parts-three h6{
+    margin-left: 54px;
+    margin-top: 9px;
+
+}
+.parts-three h6{
+    margin-left: 54px;
+    margin-top: 9px;
+
+}
+.parts-four h6{
+    
+    margin-top: 9px;
+
+}
+.parts-five h6{
+    margin-left: 52px;
+    margin-top: 9px;
+
+}
+.parts-six h6{
+    margin-left: 31px;
+    margin-top: 9px;
+
+
+}
+.cars-serv{
+    transform:rotate( 
+        90deg
+         )translate(-23px, 155px);
+            /* max-width: 599px; */
+            margin-top: 412px;
+            /* margin-left: -59px; */
+            width: 183%;
+}
+.service{
+    background-color: #efefef;
+}
+.service-text {
+    margin-top: 62px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.service-text h3{
+font-size: 34px;
+}
+.service-text h5{
+    margin-top: 1%;
+    font-size: 21px;
+}
+
+
+.offer-details img{
+    width: 235px;    
+    border-style: solid;
+    border-color: white;
+    border-width: 11px;
+}
+
+.offer{
+    text-align: center;
+    width: 84%;
+    margin-left: 158px;
+    margin-top: 48px;
+}
+.offer-details h6,p{
+    margin-top: 20px;
+}
+.offer-details p{
+  
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.offer-details h6{
+    font-size: 20px;
+    font-family: ui-sans-serif;
+
+}
+.para-one{
+    text-align: center;
+    margin-top: 50px;
+}
+.para-one p{
+    font-size: 14px;
+}
+.list-madurai{
+    margin-left: 39%;
+}
+.img-taxi img{
+    border: 0px;
+    max-width: 114%;
+
+}
+.img-taxi h4 ul{
+    border-style: solid;
+}
+.trichy{
+    margin-top: 274px;
+}
+.madurai-text {
+    text-align: center;
+}
+.madurai-text h3{
+    font-size: 31px;
+    margin-bottom: 109px;
+}
+.madurai-text p{
+    font-size: 20px;
+}
+.card-body{
+    height: 362px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    transition: box-shadow .25s;
+    cursor: pointer;
+    background-color: white;
+
+}
+.term-text {
+    margin-top: 10%;
+    border: 10px solid black;
+   
+}
+.term-text h2{
+    font-size: 35px;
+    font-family: cursive;
+text-align: center;
+border-bottom: 1px solid black;
+
+}
+
+.term-text ul{
+    font-size: 23px;
+    font-family: initial;
+    font-weight: 100;
+    list-style: auto;
+line-height: 2 ;
+}
+.foot-end img{
+width: 10%;
+
+}
+.foot-end {
+  
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-bottom: 25%;
+    background-image: url(.//heading-line-white.png);
+    background-position: center;
+    background-position-y: 81px;
+
+    }
+    .foot-end h2{
+        margin-bottom: 97px;
+       font-size: 36px; 
+
+    }
+    .foot-ended{
+        background-color: black;
+    }
+    .small{
+        margin-top: 35px;
+    }
+    .small h5{
+        color: yellow;
+    }
+    .small p,ul{
+  
+        color: azure;
+        font-size: 14px;
+    
+    }
+    .end{
+        background-color: #171212;
+        color: #847979;
+  
+    }
+    .end p{
+        margin-left: 9%;
+    }
+    .end-s{
+        color: yellow;
+    }
+    .term-text ul li{
+        color: black;
+    }
